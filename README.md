@@ -4,6 +4,8 @@ Justin: I tried to eat healthy once, but my fridge kept whispering ‘cheesecake
 
 Ennis: Why don't skeletons fight? They don't have the gut.
 
+Aola: Why did the car take a nap? It was tired.
+
 Git is a powerful and flexible source control system, but it can be challenging as a beginner. All git actions are prefaced with the command git and enable one to interact with local and remote repositories. Important actions include:
 
 
